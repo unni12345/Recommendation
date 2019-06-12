@@ -1,0 +1,415 @@
+Software,User,Rating,Recent Purchase
+HubSpot Marketing Hub,Kamal,8,1
+Marketo,Ramu,7,1
+Salesforce Pardot,Ramu,9,1
+Autopilot,Ramu,10,0
+Cliengo,Hareesh,2,1
+Marketo,Ramu,2,0
+Oracle Eloqua,Hareesh,7,1
+SocialPilot,Ramu,8,0
+Mautic,Ramu,4,1
+WebEngage,Hareesh,8,0
+Salesforce Marketing Cloud,Ramu,7,1
+Optimizely,Hareesh,5,1
+Sailthru,Ramu,9,1
+Adobe Target,Hareesh,4,0
+Emarsys,Muni,8,0
+Yotpo,Hari,8,0
+Braze,Ramu,7,0
+MoEngage,Ramu,7,0
+Inkit,Muni,6,0
+SocialShopWave,Muni,6,0
+Segment,Ramu,5,0
+FullContact,Ramu,1,0
+Hunter,Ramu,0,1
+Sitecore,Muni,9,1
+Action Recorder,Muni,9,1
+Fiksu,Raju,5,0
+Smadex,Raju,6,0
+Splicky,Muni,7,1
+netadge,Raju,7,0
+NinthDecimal,Kamal,7,1
+AppLovin,Ramu,8,1
+Chartboost,Raju,8,1
+AppLift,Muni,3,0
+TrialPay,Raju,3,0
+Kiip,Muni,4,1
+Moz Local,Raju,4,1
+Yext,Raju,3,0
+Mobify,Raju,3,1
+Brandify,Raju,3,0
+Carto,Kamal,6,0
+ClearBit,Ramu,6,1
+App Annie,Raju,6,1
+Owler,Raju,3,0
+Crunchbase,Kamal,7,0
+import.io,Hari,6,1
+SEMrush,Kamal,8,1
+Alexa,Kamal,7,1
+Intutel,Hareesh,9,1
+App Annie,Raju,10,1
+SpyFu,Hareesh,2,1
+PipeCandy,Hareesh,2,0
+SimilarTech,Kamal,7,0
+Scopi,Kamal,8,0
+Goal Huddle,Hareesh,4,0
+Impact,Hareesh,8,0
+StructuredWeb,Hari,7,1
+ChannelSight,Kamal,5,1
+Lengow,Ramu,9,0
+Relayware,Kamal,4,1
+Mindmatrix,Hari,8,0
+SuperRewards,Muni,8,1
+GamEffective,Muni,7,0
+uContact,Raju,7,1
+Antavo,Hari,6,1
+SolidOpinion,Hareesh,6,0
+EventBrite,Hari,5,1
+Splash,Ramu,1,0
+DoubleDutch,Hareesh,0,1
+Cvent,Raju,9,0
+Jifflenow,Kamal,9,1
+canUmeet,Hari,5,0
+Upcall,Gopal,6,1
+Steward,Komal,7,0
+GrowthOk,Gopu,7,1
+N3,Komal,7,1
+ServiceSource,Gopu,8,1
+SalesLoft,Gopal,8,1
+ChartMogul,Komal,3,0
+Datahug,Gopu,3,1
+Madkudu,Manu,4,0
+Nudge.ai,Manu,4,1
+KiteDesk,Gopal,3,0
+ClearSlide,Kannan,3,1
+Panopto,Gopal,3,0
+Guru,Sheetal,6,1
+Showpad,Gopal,6,1
+Clearbit,Gopu,6,1
+Clearbit Connect,Manu,3,0
+InsideView,Komal,7,0
+Salesforce Data.com,Manu,6,0
+DiscoverOrg,Manu,8,0
+Salesforce Sales Cloud,Kannan,7,0
+Pipedrive,Gopu,9,0
+Zoho CRM,Kannan,10,0
+Close,Komal,2,0
+Streak,Kannan,2,0
+ZoomInfo,Sheetal,7,1
+KiteDesk,Kannan,8,1
+Salestools,Manu,4,1
+HeadReach,Gopal,8,0
+MixRank,Sheetal,7,0
+Streak,Kannan,5,1
+Gmelius,Komal,9,0
+Cloze,Kannan,4,1
+Accelo,Kannan,8,1
+Highrise,Kannan,8,1
+Lusha,Komal,7,0
+Appollo,Kannan,7,0
+CONTACTBOX,Sheetal,6,1
+Evercontact,Sheetal,6,1
+FullContact,Sheetal,5,0
+GitHub,Lakshmi,1,1
+GitLab,Lal,0,0
+GitHost,Fakru,9,0
+ProjectLocker,Lakshmi,9,1
+SourceRepo,Lal,5,1
+Git,Fakru,6,0
+GitLab,Lakshmi,7,0
+GitHub,Lal,7,1
+Atlassian SourceTree,Fakru,7,1
+Atlassian Bitbucket Server,Juhal,8,1
+Fiddler,Lakshmi,8,1
+Xpediter,Lal,3,1
+Sublime Web Inspector,Lakshmi,3,1
+PVS-Studio,Lakshmi,4,0
+CodeLobster IDE,Lal,4,0
+ObjectBox,Meenakshi,3,0
+HyperGraphDB,Lakshmi,3,0
+InterSystems Cache,Lal,3,0
+Grapholytic,Fakru,6,1
+Frontier Kernel Project,Juhal,6,1
+MongoDB,Fakru,6,0
+Couchbase,Juhal,3,1
+Apache Hbase,Fakru,7,0
+Memcached,Juhal,6,1
+Amazon DynamoDB,Joyal,8,0
+Neo4j,Meenakshi,7,1
+ArangoDB,Fakru,9,1
+AllegroGraph,Juhal,10,0
+OrientGraph,Joyal,2,1
+Blazegraph,Meenakshi,2,0
+Applivery,Lakshmi,7,1
+Testfairy,Lal,8,0
+HockeyApp,Joyal,4,1
+Testflight,Meenakshi,8,0
+BrowserStack,Lal,7,1
+Appium,Fakru,5,0
+Applause,Juhal,9,1
+Calabash,Joyal,4,1
+pCloudy,Meenakshi,8,1
+AWS Mobile Hub,Lakshmi,8,1
+Android Studio,Lal,7,0
+Xamarin,Joyal,7,1
+Supernova,Meenakshi,6,0
+Monaca,Joyal,6,1
+Appcelerator,Meenakshi,5,0
+Lottie,Joyal,1,1
+CanvasPod,Meenakshi,0,0
+Selenium,Srinidhi,9,1
+BrowserStack,Reshma,9,1
+Bitbucket Piplines,Srinidhi,5,1
+Capybara,Reshma,6,0
+Assertible,Meera,7,0
+BrowserStack,Kylie,7,0
+Ghost Inspector,Srinidhi,7,0
+Sauce Labs,Reshma,8,0
+LambdaTest,Sharlette,8,0
+Browserling,Yohan,3,0
+BrowserStack,Srinidhi,3,0
+LambdaTest,Reshma,4,0
+FitNesse,Sharlette,4,1
+Sauce Labs,Yohan,3,1
+Assertible,Reshma,3,1
+DigitalOcean,Srinidhi,3,0
+Bluehost,Reshma,6,0
+OVH Hosting,Meera,6,1
+OpenStack,Kylie,6,0
+Rackspace Hosting,Meera,3,1
+WP Engine,Kylie,7,1
+Bluehost,Meera,6,1
+Hostinger,Kylie,8,0
+ServerPilot,Sharlette,7,0
+iPage,Yohan,9,1
+nginx,Meera,10,1
+DigitalOcean,Kylie,2,0
+AWS Application Load Balancer,Meera,2,1
+Azure Traffic Manager,Kylie,7,0
+HAProxy,Yohan,8,0
+Trend Micro,Srinidhi,4,1
+Duo Security,Reshma,8,1
+ngrok,Sharlette,7,0
+Qualys,Yohan,5,0
+OpenVPN,Sharlette,9,1
+Sophos,Yohan,4,1
+AVG antivirus,Sharlette,8,1
+McAfee antivirus,Yohan,8,1
+Symantec Norton,Sharlette,7,1
+Ad-Aware,Yohan,7,1
+Optimiso,Meera,6,0
+Noweco,Kylie,6,0
+Procipient,Sharlette,5,0
+Aspect CTRM,Yohan,1,0
+HubSpot Marketing Hub,Ramu,9,1
+Marketo,Kamal,9,1
+Salesforce Pardot,Hareesh,5,0
+Autopilot,Kamal,6,1
+Cliengo,Ramu,7,0
+Marketo,Kamal,7,1
+Oracle Eloqua,Hari,7,0
+SocialPilot,Hareesh,8,1
+Mautic,Hari,8,1
+WebEngage,Ramu,3,0
+Salesforce Marketing Cloud,Hari,3,1
+Optimizely,Ramu,4,0
+Sailthru,Hareesh,4,1
+Adobe Target,Kamal,3,0
+Emarsys,Ramu,3,1
+Yotpo,Hareesh,3,0
+Braze,Hari,6,1
+MoEngage,Hari,6,0
+Inkit,Kamal,6,1
+SocialShopWave,Ramu,3,1
+Segment,Muni,7,1
+FullContact,Muni,6,1
+Hunter,Ramu,8,0
+Sitecore,Hari,7,1
+Action Recorder,Kamal,9,0
+Fiksu,Kamal,10,1
+Smadex,Kamal,2,0
+Splicky,Raju,2,1
+netadge,Muni,7,0
+NinthDecimal,Muni,8,1
+AppLovin,Muni,4,1
+Chartboost,Hareesh,8,1
+AppLift,Kamal,7,0
+TrialPay,Muni,5,0
+Kiip,Hareesh,9,0
+Moz Local,Muni,4,0
+Yext,Muni,8,0
+Mobify,Muni,8,0
+Brandify,Kamal,7,0
+Carto,Muni,7,0
+ClearBit,Hareesh,6,0
+App Annie,Hari,6,1
+Owler,Hari,5,1
+Crunchbase,Raju,1,1
+import.io,Kamal,0,0
+SEMrush,Hari,9,0
+Alexa,Hari,9,1
+Intutel,Muni,5,0
+App Annie,Kamal,6,1
+SpyFu,Raju,7,1
+PipeCandy,Raju,7,1
+SimilarTech,Hari,7,0
+Scopi,Muni,8,0
+Goal Huddle,Kamal,8,1
+Impact,Hari,3,1
+StructuredWeb,Raju,3,0
+ChannelSight,Raju,4,1
+Lengow,Raju,4,0
+Relayware,Raju,3,0
+Mindmatrix,Raju,3,1
+SuperRewards,Hari,3,1
+GamEffective,Raju,6,0
+uContact,Hareesh,6,0
+Antavo,Hareesh,6,1
+SolidOpinion,Hari,3,1
+EventBrite,Hareesh,7,1
+Splash,Kamal,6,1
+DoubleDutch,Hari,8,1
+Cvent,Hari,7,1
+Jifflenow,Hari,9,0
+canUmeet,Kamal,10,0
+Upcall,Gopu,2,0
+Steward,Gopal,2,0
+GrowthOk,Kannan,7,0
+N3,Gopu,8,1
+ServiceSource,Gopal,4,1
+SalesLoft,Gopu,8,0
+ChartMogul,Gopal,7,1
+Datahug,Kannan,5,0
+Madkudu,Gopal,9,1
+Nudge.ai,Gopal,4,0
+KiteDesk,Gopu,8,1
+ClearSlide,Sheetal,8,1
+Panopto,Kannan,7,0
+Guru,Gopal,7,1
+Showpad,Gopu,6,0
+Clearbit,Kannan,6,1
+Clearbit Connect,Gopal,5,0
+InsideView,Gopal,1,1
+Salesforce Data.com,Gopal,0,0
+DiscoverOrg,Gopal,9,1
+Salesforce Sales Cloud,Sheetal,9,0
+Pipedrive,Kannan,5,1
+Zoho CRM,Gopu,6,1
+Close,Gopu,7,1
+Streak,Sheetal,7,1
+ZoomInfo,Kannan,7,0
+KiteDesk,Sheetal,8,1
+Salestools,Gopal,8,0
+HeadReach,Sheetal,3,1
+MixRank,Manu,3,0
+Streak,Manu,4,1
+Gmelius,Manu,4,0
+Cloze,Sheetal,3,1
+Accelo,Sheetal,3,1
+Highrise,Sheetal,3,1
+Lusha,Sheetal,6,0
+Appollo,Sheetal,6,0
+CONTACTBOX,Manu,6,0
+Evercontact,Manu,3,0
+FullContact,Manu,7,0
+GitHub,Lal,6,0
+GitLab,Lakshmi,8,0
+GitHost,Lal,7,0
+ProjectLocker,Lal,9,0
+SourceRepo,Lakshmi,10,1
+Git,Lal,2,1
+GitLab,Fakru,2,1
+GitHub,Lakshmi,7,0
+Atlassian SourceTree,Lakshmi,8,0
+Atlassian Bitbucket Server,Lal,4,1
+Fiddler,Lal,8,0
+Xpediter,Lakshmi,7,1
+Sublime Web Inspector,Lal,5,1
+PVS-Studio,Lal,9,1
+CodeLobster IDE,Lakshmi,4,0
+ObjectBox,Lakshmi,8,0
+HyperGraphDB,Meenakshi,8,1
+InterSystems Cache,Fakru,7,1
+Grapholytic,Meenakshi,7,0
+Frontier Kernel Project,Fakru,6,1
+MongoDB,Meenakshi,6,0
+Couchbase,Fakru,5,0
+Apache Hbase,Meenakshi,1,1
+Memcached,Fakru,0,1
+Amazon DynamoDB,Fakru,9,0
+Neo4j,Fakru,9,0
+ArangoDB,Meenakshi,5,1
+AllegroGraph,Meenakshi,6,1
+OrientGraph,Fakru,7,1
+Blazegraph,Joyal,7,1
+Applivery,Joyal,7,1
+Testfairy,Joyal,8,1
+HockeyApp,Fakru,8,0
+Testflight,Joyal,3,0
+BrowserStack,Joyal,3,0
+Appium,Joyal,4,0
+Applause,Joyal,4,0
+Calabash,Fakru,3,1
+pCloudy,Joyal,3,1
+AWS Mobile Hub,Joyal,3,0
+Android Studio,Juhal,6,1
+Xamarin,Juhal,6,0
+Supernova,Juhal,6,1
+Monaca,Juhal,3,0
+Appcelerator,Juhal,7,1
+Lottie,Juhal,6,1
+CanvasPod,Juhal,8,0
+Selenium,Reshma,7,1
+BrowserStack,Srinidhi,9,0
+Bitbucket Piplines,Reshma,10,1
+Capybara,Srinidhi,2,0
+Assertible,Kylie,2,1
+BrowserStack,Meera,7,0
+Ghost Inspector,Reshma,8,1
+Sauce Labs,Srinidhi,4,0
+LambdaTest,Yohan,8,1
+Browserling,Sharlette,7,1
+BrowserStack,Reshma,5,1
+LambdaTest,Srinidhi,9,1
+FitNesse,Yohan,4,0
+Sauce Labs,Sharlette,8,1
+Assertible,Srinidhi,8,0
+DigitalOcean,Reshma,7,1
+Bluehost,Srinidhi,7,0
+OVH Hosting,Kylie,6,1
+OpenStack,Meera,6,0
+Rackspace Hosting,Kylie,5,1
+WP Engine,Meera,1,1
+Bluehost,Kylie,0,1
+Hostinger,Meera,9,0
+ServerPilot,Yohan,9,0
+iPage,Sharlette,5,0
+nginx,Yohan,6,0
+DigitalOcean,Meera,7,0
+AWS Application Load Balancer,Kylie,7,0
+Azure Traffic Manager,Meera,7,0
+HAProxy,Sharlette,8,0
+Trend Micro,Reshma,8,0
+Duo Security,Srinidhi,3,1
+ngrok,Yohan,3,1
+Qualys,Sharlette,4,1
+OpenVPN,Yohan,4,0
+Sophos,Sharlette,3,0
+AVG antivirus,Yohan,3,1
+McAfee antivirus,Sharlette,3,0
+Symantec Norton,Yohan,6,1
+Ad-Aware,Sharlette,6,1
+Optimiso,Kylie,6,1
+Noweco,Meera,3,0
+Procipient,Yohan,7,0
+Aspect CTRM,Sharlette,6,1
+Ubuntu,Raj,8,1
+Matlab,Raj,8,1
+Netsuite,Earl,9,1
+Uber,Tim,9,0
+Ola,Southie,8,0
+Mozilla,Steward,9,1
+R,Adil,9,1
+nginx,Raju,7,1
+Ola,Raju,8,1
+iPage,Raju,8,1

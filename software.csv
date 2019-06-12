@@ -1,0 +1,204 @@
+Software,Category,Subcategory,Purpose
+HubSpot Marketing Hub,Marketing,Marketing Automation,Marketing Automation Platform
+Marketo,Marketing,Marketing Automation,Marketing Automation Platform
+Salesforce Pardot,Marketing,Marketing Automation,Marketing Automation Platform
+Autopilot,Marketing,Marketing Automation,Marketing Automation Platform
+Cliengo,Marketing,Marketing Automation,Marketing Automation Platform
+Marketo,Marketing,Marketing Automation,Cross-Channel Marketing Automation
+Oracle Eloqua,Marketing,Marketing Automation,Cross-Channel Marketing Automation
+SocialPilot,Marketing,Marketing Automation,Cross-Channel Marketing Automation
+Mautic,Marketing,Marketing Automation,Cross-Channel Marketing Automation
+WebEngage,Marketing,Marketing Automation,Cross-Channel Marketing Automation
+Salesforce Marketing Cloud,Marketing,Marketing Automation,Personalization
+Optimizely,Marketing,Marketing Automation,Personalization
+Sailthru,Marketing,Marketing Automation,Personalization
+Adobe Target,Marketing,Marketing Automation,Personalization
+Emarsys,Marketing,Marketing Automation,Personalization
+Yotpo,Marketing,Marketing Automation,Retention Marketing
+Braze,Marketing,Marketing Automation,Retention Marketing
+MoEngage,Marketing,Marketing Automation,Retention Marketing
+Inkit,Marketing,Marketing Automation,Retention Marketing
+SocialShopWave,Marketing,Marketing Automation,Retention Marketing
+Segment,Marketing,Marketing Automation,Customer Data Integration
+FullContact,Marketing,Marketing Automation,Customer Data Integration
+Hunter,Marketing,Marketing Automation,Customer Data Integration
+Sitecore,Marketing,Marketing Automation,Customer Data Integration
+Action Recorder,Marketing,Marketing Automation,Customer Data Integration
+Fiksu,Marketing,Mobile Marketing,Mobile DSP
+Smadex,Marketing,Mobile Marketing,Mobile DSP
+Splicky,Marketing,Mobile Marketing,Mobile DSP
+netadge,Marketing,Mobile Marketing,Mobile DSP
+NinthDecimal,Marketing,Mobile Marketing,Mobile DSP
+AppLovin,Marketing,Mobile Marketing,Mobile Ad Network
+Chartboost,Marketing,Mobile Marketing,Mobile Ad Network
+AppLift,Marketing,Mobile Marketing,Mobile Ad Network
+TrialPay,Marketing,Mobile Marketing,Mobile Ad Network
+Kiip,Marketing,Mobile Marketing,Mobile Ad Network
+Moz Local,Marketing,Mobile Marketing,Location Marketing
+Yext,Marketing,Mobile Marketing,Location Marketing
+Mobify,Marketing,Mobile Marketing,Location Marketing
+Brandify,Marketing,Mobile Marketing,Location Marketing
+Carto,Marketing,Mobile Marketing,Location Marketing
+ClearBit,Marketing,Marketing Intelligence,Market Research
+App Annie,Marketing,Marketing Intelligence,Market Research
+Owler,Marketing,Marketing Intelligence,Market Research
+Crunchbase,Marketing,Marketing Intelligence,Market Research
+import.io,Marketing,Marketing Intelligence,Market Research
+SEMrush,Marketing,Marketing Intelligence,Competitive Intelligence
+Alexa,Marketing,Marketing Intelligence,Competitive Intelligence
+Intutel,Marketing,Marketing Intelligence,Competitive Intelligence
+App Annie,Marketing,Marketing Intelligence,Competitive Intelligence
+SpyFu,Marketing,Marketing Intelligence,Competitive Intelligence
+PipeCandy,Marketing,Marketing Intelligence,Marketing Planning and Strategy Management
+SimilarTech,Marketing,Marketing Intelligence,Marketing Planning and Strategy Management
+Scopi,Marketing,Marketing Intelligence,Marketing Planning and Strategy Management
+Goal Huddle,Marketing,Marketing Intelligence,Marketing Planning and Strategy Management
+Impact,Marketing,Marketing Intelligence,Marketing Planning and Strategy Management
+StructuredWeb,Marketing,Demand Generation,Channel Marketting
+ChannelSight,Marketing,Demand Generation,Channel Marketting
+Lengow,Marketing,Demand Generation,Channel Marketting
+Relayware,Marketing,Demand Generation,Channel Marketting
+Mindmatrix,Marketing,Demand Generation,Channel Marketting
+SuperRewards,Marketing,Demand Generation,Gamification
+GamEffective,Marketing,Demand Generation,Gamification
+uContact,Marketing,Demand Generation,Gamification
+Antavo,Marketing,Demand Generation,Gamification
+SolidOpinion,Marketing,Demand Generation,Gamification
+EventBrite,Marketing,Demand Generation,Event Marketing and Management
+Splash,Marketing,Demand Generation,Event Marketing and Management
+DoubleDutch,Marketing,Demand Generation,Event Marketing and Management
+Cvent,Marketing,Demand Generation,Event Marketing and Management
+Jifflenow,Marketing,Demand Generation,Event Marketing and Management
+canUmeet,Marketing,Demand Generation,Event Marketing and Management
+Upcall,Sales and BD,Sales,Outsourced Sales
+Steward,Sales and BD,Sales,Outsourced Sales
+GrowthOk,Sales and BD,Sales,Outsourced Sales
+N3,Sales and BD,Sales,Outsourced Sales
+ServiceSource,Sales and BD,Sales,Outsourced Sales
+SalesLoft,Sales and BD,Sales,Sales Analytics
+ChartMogul,Sales and BD,Sales,Sales Analytics
+Datahug,Sales and BD,Sales,Sales Analytics
+Madkudu,Sales and BD,Sales,Sales Analytics
+Nudge.ai,Sales and BD,Sales,Sales Analytics
+KiteDesk,Sales and BD,Sales,Sales Enablement
+ClearSlide,Sales and BD,Sales,Sales Enablement
+Panopto,Sales and BD,Sales,Sales Enablement
+Guru,Sales and BD,Sales,Sales Enablement
+Showpad,Sales and BD,Sales,Sales Enablement
+Clearbit,Sales and BD,Sales,Sales Intelligence
+Clearbit Connect,Sales and BD,Sales,Sales Intelligence
+InsideView,Sales and BD,Sales,Sales Intelligence
+Salesforce Data.com,Sales and BD,Sales,Sales Intelligence
+DiscoverOrg,Sales and BD,Sales,Sales Intelligence
+Salesforce Sales Cloud,Sales and BD,CRM,CRM Platforms
+Pipedrive,Sales and BD,CRM,CRM Platforms
+Zoho CRM,Sales and BD,CRM,CRM Platforms
+Close,Sales and BD,CRM,CRM Platforms
+Streak,Sales and BD,CRM,CRM Platforms
+ZoomInfo,Sales and BD,CRM,Lead Lists
+KiteDesk,Sales and BD,CRM,Lead Lists
+Salestools,Sales and BD,CRM,Lead Lists
+HeadReach,Sales and BD,CRM,Lead Lists
+MixRank,Sales and BD,CRM,Lead Lists
+Streak,Sales and BD,CRM,Light CRM
+Gmelius,Sales and BD,CRM,Light CRM
+Cloze,Sales and BD,CRM,Light CRM
+Accelo,Sales and BD,CRM,Light CRM
+Highrise,Sales and BD,CRM,Light CRM
+Lusha,Sales and BD,CRM,Contact Management
+Appollo,Sales and BD,CRM,Contact Management
+CONTACTBOX,Sales and BD,CRM,Contact Management
+Evercontact,Sales and BD,CRM,Contact Management
+FullContact,Sales and BD,CRM,Contact Management
+GitHub,Developer,Software Development,Code Hosting
+GitLab,Developer,Software Development,Code Hosting
+GitHost,Developer,Software Development,Code Hosting
+ProjectLocker,Developer,Software Development,Code Hosting
+SourceRepo,Developer,Software Development,Code Hosting
+Git,Developer,Software Development,Version Control
+GitLab,Developer,Software Development,Version Control
+GitHub,Developer,Software Development,Version Control
+Atlassian SourceTree,Developer,Software Development,Version Control
+Atlassian Bitbucket Server,Developer,Software Development,Version Control
+Fiddler,Developer,Software Development,Debugging Tools
+Xpediter,Developer,Software Development,Debugging Tools
+Sublime Web Inspector,Developer,Software Development,Debugging Tools
+PVS-Studio,Developer,Software Development,Debugging Tools
+CodeLobster IDE,Developer,Software Development,Debugging Tools
+ObjectBox,Developer,Databases,Object Databases
+HyperGraphDB,Developer,Databases,Object Databases
+InterSystems Cache,Developer,Databases,Object Databases
+Grapholytic,Developer,Databases,Object Databases
+Frontier Kernel Project,Developer,Databases,Object Databases
+MongoDB,Developer,Databases,NOSQL Databases
+Couchbase,Developer,Databases,NOSQL Databases
+Apache Hbase,Developer,Databases,NOSQL Databases
+Memcached,Developer,Databases,NOSQL Databases
+Amazon DynamoDB,Developer,Databases,NOSQL Databases
+Neo4j,Developer,Databases,Graph Databases
+ArangoDB,Developer,Databases,Graph Databases
+AllegroGraph,Developer,Databases,Graph Databases
+OrientGraph,Developer,Databases,Graph Databases
+Blazegraph,Developer,Databases,Graph Databases
+Applivery,Developer,Mobile Development,Mobile App Testing
+Testfairy,Developer,Mobile Development,Mobile App Testing
+HockeyApp,Developer,Mobile Development,Mobile App Testing
+Testflight,Developer,Mobile Development,Mobile App Testing
+BrowserStack,Developer,Mobile Development,Mobile App Testing
+Appium,Developer,Mobile Development,Mobile Test Automation
+Applause,Developer,Mobile Development,Mobile Test Automation
+Calabash,Developer,Mobile Development,Mobile Test Automation
+pCloudy,Developer,Mobile Development,Mobile Test Automation
+AWS Mobile Hub,Developer,Mobile Development,Mobile Test Automation
+Android Studio,Developer,Mobile Development,Mobile App Dev Tools
+Xamarin,Developer,Mobile Development,Mobile App Dev Tools
+Supernova,Developer,Mobile Development,Mobile App Dev Tools
+Monaca,Developer,Mobile Development,Mobile App Dev Tools
+Appcelerator,Developer,Mobile Development,Mobile App Dev Tools
+Lottie,Developer,Mobile Development,Mobile App Design Tools
+CanvasPod,Developer,Mobile Development,Mobile App Design Tools
+Selenium,DevOps and IT,DevOps,Test Automation
+BrowserStack,DevOps and IT,DevOps,Test Automation
+Bitbucket Piplines,DevOps and IT,DevOps,Test Automation
+Capybara,DevOps and IT,DevOps,Test Automation
+Assertible,DevOps and IT,DevOps,Test Automation
+BrowserStack,DevOps and IT,DevOps,Browser Testing
+Ghost Inspector,DevOps and IT,DevOps,Browser Testing
+Sauce Labs,DevOps and IT,DevOps,Browser Testing
+LambdaTest,DevOps and IT,DevOps,Browser Testing
+Browserling,DevOps and IT,DevOps,Browser Testing
+BrowserStack,DevOps and IT,DevOps,Application Testing
+LambdaTest,DevOps and IT,DevOps,Application Testing
+FitNesse,DevOps and IT,DevOps,Application Testing
+Sauce Labs,DevOps and IT,DevOps,Application Testing
+Assertible,DevOps and IT,DevOps,Application Testing
+DigitalOcean,DevOps and IT,Hosting,Web Hosting
+Bluehost,DevOps and IT,Hosting,Web Hosting
+OVH Hosting,DevOps and IT,Hosting,Web Hosting
+OpenStack,DevOps and IT,Hosting,Web Hosting
+Rackspace Hosting,DevOps and IT,Hosting,Web Hosting
+WP Engine,DevOps and IT,Hosting,Wordpress Hosting
+Bluehost,DevOps and IT,Hosting,Wordpress Hosting
+Hostinger,DevOps and IT,Hosting,Wordpress Hosting
+ServerPilot,DevOps and IT,Hosting,Wordpress Hosting
+iPage,DevOps and IT,Hosting,Wordpress Hosting
+nginx,DevOps and IT,Hosting,Load Balancers
+DigitalOcean,DevOps and IT,Hosting,Load Balancers
+AWS Application Load Balancer,DevOps and IT,Hosting,Load Balancers
+Azure Traffic Manager,DevOps and IT,Hosting,Load Balancers
+HAProxy,DevOps and IT,Hosting,Load Balancers
+Trend Micro,DevOps and IT,Security,End Point Security
+Duo Security,DevOps and IT,Security,End Point Security
+ngrok,DevOps and IT,Security,End Point Security
+Qualys,DevOps and IT,Security,End Point Security
+OpenVPN,DevOps and IT,Security,End Point Security
+Sophos,DevOps and IT,Security,Anti-Virus
+AVG antivirus,DevOps and IT,Security,Anti-Virus
+McAfee antivirus,DevOps and IT,Security,Anti-Virus
+Symantec Norton,DevOps and IT,Security,Anti-Virus
+Ad-Aware,DevOps and IT,Security,Anti-Virus
+Optimiso,DevOps and IT,Security,Risk Management
+Noweco,DevOps and IT,Security,Risk Management
+Procipient,DevOps and IT,Security,Risk Management
+Aspect CTRM,DevOps and IT,Security,Risk Management
+Libryo,DevOps and IT,Security,Risk Management
